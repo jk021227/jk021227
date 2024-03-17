@@ -3,9 +3,9 @@
 I'm a rising senior majoring in Computer Science and minoring in Interactive Media and Legal Studies. My biggest academic and professional strengths are a determined work ethic, being a flexible team player, and being an efficient communicator. Having worked in various settings and positions, in and outside of school, I have developed rapid critical thinking, especially when working under pressure, which is an applicable skill for many work environments. I can operate as both a cooperative teammate and an efficient leader given what the circumstances demand. 
 
 #### My Specialty & Interests
-  🔵 Legaltech
-  🔵 Edutech
-  🔵 Software Engineering
+- 🔵 Legaltech
+- 🔵 Edutech
+- 🔵 Software Engineering
 
 ## 🛠️ Projects 🛠️
 ### Software Engineering

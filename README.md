@@ -48,7 +48,7 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
   - [Product Prototype](https://www.figma.com/proto/yDdkaIrbXjzZprXZil3sYa/Loreal?type=design&node-id=223-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=223%3A2&show-proto-sidebar=1)
 - 3rd place, IMA Student Case Competition Middle East
   - Presented a case advising a local Singaporean business in areas of economic growth and user retention (500 USD cash prize)
-  - [Pitch Deck]([https://www.figma.com/proto/qkICTwOEjRpVjolrwIsEjy/Habi?node-id=20-11038&starting-point-node-id=20%3A11038&mode=design&t=xDMb8SHmQJBjyzfm-1](https://docs.google.com/presentation/d/1LUkWI9RbDt2csNOSsCo-aPYvB_qGfqwrYS0xgfFaKzE/edit?usp=sharing)https://docs.google.com/presentation/d/1LUkWI9RbDt2csNOSsCo-aPYvB_qGfqwrYS0xgfFaKzE/edit?usp=sharing)
+  - [Pitch Deck](https://docs.google.com/presentation/d/1LUkWI9RbDt2csNOSsCo-aPYvB_qGfqwrYS0xgfFaKzE/edit?usp=sharing)
  
 # 💼 Work Experience 💼
 ## Data Science Intern, [swftbox](https://www.swftbox.com/)

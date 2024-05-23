@@ -63,7 +63,7 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
   * Collected data & trained ML model to enhance dynamic responsiveness of Customer Service Chatbot by 20%
 * Skills Deployed: Python, PostgreSQL, MySQL, Data Collection & Cleaning, NLP, Model Training & Tuning
 
-## Software Engineer, [dato.](https://www.swftbox.com/](https://www.linkedin.com/company/dato-pr/)
+## Software Engineer, ["dato."](https://www.swftbox.com/](https://www.linkedin.com/company/dato-pr/)
 * Duration: December 2023 - present | Part-time
 * Department: Engineering
 * Accomplished:

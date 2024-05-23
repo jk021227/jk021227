@@ -39,25 +39,37 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
 **If you want to see more of my minor projects, please head to my [workportfolio](https://github.com/jk021227/workportfolio)**
 
 # 🏆 Hackathons & Competitions 🏆
-- 1st place, The Graces Ideathon | February 2024
-  - Pitched a tech-driven solution with computer vision and AR/VR/AI to solve the food waste produced in the UAE, specifically during Ramadan (1300 USD cash prize)
+- 1st place, Whiteshield Case Competition | April 2024 | 500USD cash prize
+  - Presented a policy strategy grounded in harnessing the local strengths of the UAE in relation to technological advancements in AI, the digital economy, and remote work
+  - Specifically took charge of researching blockchain technology and analyzing its market potential
+  - [Pitch Deck](https://docs.google.com/presentation/d/1LRlI22_kVX4vZLSB8_KDPnuYyC0m0z68ndGtAFkRHY8/edit?usp=sharing)
+- 1st place, The Graces Ideathon | February 2024 | 1300 USD cash prize
+  - Pitched a tech-driven solution with computer vision and AR/VR/AI to solve the food waste produced in the UAE, specifically during Ramadan 
 - Designpreneurs hackathon, NYU | November 2023
   - [Product Prototype](https://www.figma.com/proto/qkICTwOEjRpVjolrwIsEjy/Habi?node-id=20-11038&starting-point-node-id=20%3A11038&mode=design&t=xDMb8SHmQJBjyzfm-1)
 - Finalist, L’Oréal Brandstorm Middle East 2023 | April 2023
   - Ranked in the top 4 out of over 150 teams in the GCC region & presented twice to executives from L'Oreal and Meta
   - [Product Prototype](https://www.figma.com/proto/yDdkaIrbXjzZprXZil3sYa/Loreal?type=design&node-id=223-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=223%3A2&show-proto-sidebar=1)
-- 3rd place, IMA Student Case Competition Middle East
-  - Presented a case advising a local Singaporean business in areas of economic growth and user retention (500 USD cash prize)
+- 3rd place, IMA Student Case Competition Middle East | May 2022 | 500USD cash prize
+  - Presented a case advising a local Singaporean business in areas of economic growth and user retention 
   - [Pitch Deck](https://docs.google.com/presentation/d/1LUkWI9RbDt2csNOSsCo-aPYvB_qGfqwrYS0xgfFaKzE/edit?usp=sharing)
  
 # 💼 Work Experience 💼
 ## Data Science Intern, [swftbox](https://www.swftbox.com/)
-* Duration: June 4 - August 15, 2023
+* Duration: June 4 - August 15, 2023 | Full-time
 * Department: AI
 * Accomplished:
   * Cleaned up 10+ datasets and conducted quantitative analysis by comparing SQL generated via large language models and the data science team
   * Collected data & trained ML model to enhance dynamic responsiveness of Customer Service Chatbot by 20%
 * Skills Deployed: Python, PostgreSQL, MySQL, Data Collection & Cleaning, NLP, Model Training & Tuning
+
+## Software Engineer, [dato.](https://www.swftbox.com/](https://www.linkedin.com/company/dato-pr/)
+* Duration: December 2023 - present | Part-time
+* Department: Engineering
+* Accomplished:
+  * Created wireframe and design document
+  * Web and app development in-process
+* Skills Deployed: Python, Django, MongoDB, React, React Native, Product Management, Design Architecture 
 
 ### 🗳️ Contacts
 - 📧 E-mail: jhono@nyu.edu

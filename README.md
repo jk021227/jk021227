@@ -39,7 +39,7 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
 **If you want to see more of my minor projects, please head to my [workportfolio](https://github.com/jk021227/workportfolio)**
 
 # 🏆 Hackathons & Competitions 🏆
-- 1st place, Whiteshield Case Competition | April 2024 | 500USD cash prize
+- 1st place, Whiteshield Case Competition | April 2024 | 500 USD cash prize
   - Presented a policy strategy grounded in harnessing the local strengths of the UAE in relation to technological advancements in AI, the digital economy, and remote work
   - Specifically took charge of researching blockchain technology and analyzing its market potential
   - [Pitch Deck](https://docs.google.com/presentation/d/1LRlI22_kVX4vZLSB8_KDPnuYyC0m0z68ndGtAFkRHY8/edit?usp=sharing)
@@ -50,7 +50,7 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
 - Finalist, L’Oréal Brandstorm Middle East 2023 | April 2023
   - Ranked in the top 4 out of over 150 teams in the GCC region & presented twice to executives from L'Oreal and Meta
   - [Product Prototype](https://www.figma.com/proto/yDdkaIrbXjzZprXZil3sYa/Loreal?type=design&node-id=223-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=223%3A2&show-proto-sidebar=1)
-- 3rd place, IMA Student Case Competition Middle East | May 2022 | 500USD cash prize
+- 3rd place, IMA Student Case Competition Middle East | May 2022 | 500 USD cash prize
   - Presented a case advising a local Singaporean business in areas of economic growth and user retention 
   - [Pitch Deck](https://docs.google.com/presentation/d/1LUkWI9RbDt2csNOSsCo-aPYvB_qGfqwrYS0xgfFaKzE/edit?usp=sharing)
  

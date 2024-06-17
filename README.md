@@ -44,7 +44,8 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
   - Specifically took charge of researching blockchain technology and analyzing its market potential
   - [Pitch Deck](https://docs.google.com/presentation/d/1LRlI22_kVX4vZLSB8_KDPnuYyC0m0z68ndGtAFkRHY8/edit?usp=sharing)
 - 1st place, The Graces Ideathon | February 2024 | 1300 USD cash prize
-  - Pitched a tech-driven solution with computer vision and AR/VR/AI to solve the food waste produced in the UAE, specifically during Ramadan 
+  - Pitched a tech-driven solution with computer vision and AR/VR/AI to solve the food waste produced in the UAE, specifically during Ramadan
+  - [Pitch Deck](https://docs.google.com/presentation/d/1ZfTexEnj61XBPL9MDHbBtolPAZrufenuQWh3E7vuFMs/edit?usp=sharing)
 - Designpreneurs hackathon, NYU | November 2023
   - [Product Prototype](https://www.figma.com/proto/qkICTwOEjRpVjolrwIsEjy/Habi?node-id=20-11038&starting-point-node-id=20%3A11038&mode=design&t=xDMb8SHmQJBjyzfm-1)
 - Finalist, L’Oréal Brandstorm Middle East 2023 | April 2023

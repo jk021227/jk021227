@@ -55,6 +55,23 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
   - [Pitch Deck](https://docs.google.com/presentation/d/1LUkWI9RbDt2csNOSsCo-aPYvB_qGfqwrYS0xgfFaKzE/edit?usp=sharing)
  
 # 💼 Work Experience 💼
+
+## Software Engineer, [dato.](https://www.linkedin.com/company/dato-pr/)
+* Duration: December 2023 - present | Part-time
+* Department: Engineering
+* Accomplished:
+  * Created wireframe and design document
+  * Web and app in-development 
+* Skills Deployed: Python, Django, MongoDB, React, React Native, Project Management, Design Architecture
+
+## Product Management Intern, [Visa](https://ae.visamiddleeast.com/en_AE)
+* Duration: June 2024 - present | Full-time
+* Department: Product
+* Accomplished:
+  * Developing business use cases and technical product documents of Generative AI products
+  * Participate in meetings to ideate and streamline innovation in new and existing products
+* Skills Deployed: Python, Product/Project Management, Pandas, Design Architecture, Customer Roadmap Formulation
+
 ## Data Science Intern, [swftbox](https://www.swftbox.com/)
 * Duration: June 4 - August 15, 2023 | Full-time
 * Department: AI
@@ -62,14 +79,6 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
   * Cleaned up 10+ datasets and conducted quantitative analysis by comparing SQL generated via large language models and the data science team
   * Collected data & trained ML model to enhance dynamic responsiveness of Customer Service Chatbot by 20%
 * Skills Deployed: Python, PostgreSQL, MySQL, Data Collection & Cleaning, NLP, Model Training & Tuning
-
-## Software Engineer, [dato.](https://www.linkedin.com/company/dato-pr/)
-* Duration: December 2023 - present | Part-time
-* Department: Engineering
-* Accomplished:
-  * Created wireframe and design document
-  * Web and app development in-process
-* Skills Deployed: Python, Django, MongoDB, React, React Native, Product Management, Design Architecture 
 
 ### 🗳️ Contacts
 - 📧 E-mail: jhono@nyu.edu

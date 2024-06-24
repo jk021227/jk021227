@@ -77,7 +77,7 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
 * Duration: June 4 - August 15, 2023 | Full-time
 * Department: AI
 * Accomplished:
-  * Cleaned up 10+ datasets and conducted quantitative analysis by comparing SQL generated via large language models and the data science team
+  * Cleaned up 10+ datasets and drafted a guide document for filing a provisional and non-provisional algorithm patent in the US 
   * Collected data & trained ML model to enhance dynamic responsiveness of Customer Service Chatbot by 20%
 * Skills Deployed: Python, PostgreSQL, MySQL, Data Collection & Cleaning, NLP, Model Training & Tuning
 

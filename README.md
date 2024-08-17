@@ -39,6 +39,8 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
 **If you want to see more of my minor projects, please head to my [workportfolio](https://github.com/jk021227/workportfolio)**
 
 # 🏆 Hackathons & Competitions 🏆
+- 1st place, Global Case Challenge at Visa | August 2024 | 1750 USD cash prize
+  - Competed among 172 interns, 27 teams in NA, LAC, CEMEA, and AP regions to develop a product that would expand financial inclusion at Visa with AI
 - 1st place, Whiteshield Case Competition | April 2024 | 500 USD cash prize
   - Presented a policy strategy grounded in harnessing the local strengths of the UAE in relation to technological advancements in AI, the digital economy, and remote work
   - Specifically took charge of researching blockchain technology and analyzing its market potential
@@ -56,6 +58,14 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
   - [Pitch Deck](https://docs.google.com/presentation/d/1LUkWI9RbDt2csNOSsCo-aPYvB_qGfqwrYS0xgfFaKzE/edit?usp=sharing)
  
 # 💼 Work Experience 💼
+## Product Management Intern, [Visa](https://ae.visamiddleeast.com/en_AE)
+* Duration: June 2024 - present | Full-time
+* Department: Product
+* Accomplished:
+  * Developing business use cases and technical product documents of Generative AI products
+  * Placed 1st in the Global Intern Case Challenge, pitching to the CEO of Visa
+  * Given the highest performance rating among all present and past interns in the CEMEA region
+* Skills Deployed: Python, Product/Project Management, Pandas, Solution Architecture, Customer Roadmap Formulation, Figma
 
 ## Software Engineer, [dato.](https://www.linkedin.com/company/dato-pr/)
 * Duration: December 2023 - present | Part-time
@@ -64,14 +74,6 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
   * Created wireframe and design document
   * Web and app in-development 
 * Skills Deployed: Python, Django, MongoDB, React, React Native, Project Management, Design Architecture
-
-## Product Management Intern, [Visa](https://ae.visamiddleeast.com/en_AE)
-* Duration: June 2024 - present | Full-time
-* Department: Product
-* Accomplished:
-  * Developing business use cases and technical product documents of Generative AI products
-  * Participate in meetings to ideate and streamline innovation in new and existing products
-* Skills Deployed: Python, Product/Project Management, Pandas, Design Architecture, Customer Roadmap Formulation
 
 ## Data Science Intern, [swftbox](https://www.swftbox.com/)
 * Duration: June 4 - August 15, 2023 | Full-time

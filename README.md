@@ -64,7 +64,6 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
 * Accomplished:
   * Developing business use cases and technical product documents of Generative AI products
   * Placed 1st in the Global Intern Case Challenge, pitching to the CEO of Visa
-  * Given the highest performance rating among all present and past interns in the CEMEA region
 * Skills Deployed: Python, Product/Project Management, Pandas, Solution Architecture, Customer Roadmap Formulation, Figma
 
 ## Software Engineer, [dato.](https://www.linkedin.com/company/dato-pr/)

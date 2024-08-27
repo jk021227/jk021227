@@ -62,7 +62,7 @@ I'm a rising senior majoring in Computer Science and minoring in Interactive Med
 * Duration: June 2024 - present | Full-time
 * Department: Product
 * Accomplished:
-  * Developing business use cases and technical product documents of Generative AI products
+  * Developing business use cases and technical product documents of Generative AI and ML-powered products
   * Placed 1st in the Global Intern Case Challenge, pitching to the CEO of Visa
 * Skills Deployed: Python, Product/Project Management, Pandas, Solution Architecture, Customer Roadmap Formulation, Figma
 

@@ -63,7 +63,7 @@ I'm a senior majoring in Computer Science and minoring in Interactive Media and 
 * Department: Product
 * Accomplished:
   * Developing business use cases and technical product documents of Generative AI and ML-powered products
-  * Placed 1st in the Global Intern Case Challenge, pitching to the CEO of Visa — product to be put into development for the first time in competition history
+  * Placed 1st in the Global Intern Case Challenge, pitching to the CEO of Visa — first ever product to be put into development for in competition history
 * Skills Deployed: Python, Product/Project Management, Pandas, Solution Architecture, Customer Roadmap Formulation, Figma
 
 ## Software Engineer, [dato.](https://www.linkedin.com/company/dato-pr/)

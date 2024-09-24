@@ -59,7 +59,7 @@ I'm a senior majoring in Computer Science and minoring in Interactive Media and 
  
 # 💼 Work Experience 💼
 ## Product Management Intern, [Visa](https://ae.visamiddleeast.com/en_AE)
-* Duration: June 2024 - present | Full-time
+* Duration: June 4 - August 31, 2024 | Full-time
 * Department: Product
 * Accomplished:
   * Developing business use cases and technical product documents of Generative AI and ML-powered products

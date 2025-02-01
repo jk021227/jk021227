@@ -39,21 +39,21 @@ I'm a senior majoring in Computer Science and minoring in Interactive Media and 
 **If you want to see more of my minor projects, please head to my [workportfolio](https://github.com/jk021227/workportfolio)**
 
 # 🏆 Hackathons & Competitions 🏆
-- 1st place, Global Case Challenge at Visa | August 2024 | 1750 USD cash prize
+- 1st place, Global Case Challenge at Visa | August 2024 | 1750 USD prize
   - Competed among 172 interns, 27 teams in NA, LAC, CEMEA, and AP regions to develop a product that would expand financial inclusion at Visa with AI
-- 1st place, Whiteshield Case Competition | April 2024 | 500 USD cash prize
+- 1st place, Whiteshield Case Competition | April 2024 | 500 USD prize
   - Presented a policy strategy grounded in harnessing the local strengths of the UAE in relation to technological advancements in AI, the digital economy, and remote work
   - Specifically took charge of researching blockchain technology and analyzing its market potential
   - [Pitch Deck](https://docs.google.com/presentation/d/1LRlI22_kVX4vZLSB8_KDPnuYyC0m0z68ndGtAFkRHY8/edit?usp=sharing)
-- 1st place, The Graces Ideathon | February 2024 | 1300 USD cash prize
+- 1st place, The Graces Ideathon | February 2024 | 1300 USD prize
   - Pitched a tech-driven solution with computer vision and AR/VR/AI to solve the food waste produced in the UAE, specifically during Ramadan
   - [Pitch Deck](https://docs.google.com/presentation/d/1ZfTexEnj61XBPL9MDHbBtolPAZrufenuQWh3E7vuFMs/edit?usp=sharing)
 - Designpreneurs hackathon, NYU | November 2023
   - [Product Prototype](https://www.figma.com/proto/qkICTwOEjRpVjolrwIsEjy/Habi?node-id=20-11038&starting-point-node-id=20%3A11038&mode=design&t=xDMb8SHmQJBjyzfm-1)
-- Finalist, L’Oréal Brandstorm Middle East 2023 | April 2023
+- Finalist, L’Oréal Brandstorm Middle East 2023 | April 2023 | 800 USD prize
   - Ranked in the top 4 out of over 150 teams in the GCC region & presented twice to executives from L'Oreal and Meta
   - [Product Prototype](https://www.figma.com/proto/yDdkaIrbXjzZprXZil3sYa/Loreal?type=design&node-id=223-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=223%3A2&show-proto-sidebar=1)
-- 3rd place, IMA Student Case Competition Middle East | May 2022 | 500 USD cash prize
+- 3rd place, IMA Student Case Competition Middle East | May 2022 | 500 USD prize
   - Presented a case advising a local Singaporean business in areas of economic growth and user retention 
   - [Pitch Deck](https://docs.google.com/presentation/d/1LUkWI9RbDt2csNOSsCo-aPYvB_qGfqwrYS0xgfFaKzE/edit?usp=sharing)
  

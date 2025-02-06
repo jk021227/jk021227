@@ -39,6 +39,14 @@ I'm a senior majoring in Computer Science and minoring in Interactive Media and 
 **If you want to see more of my minor projects, please head to my [workportfolio](https://github.com/jk021227/workportfolio)**
 
 # 🏆 Hackathons & Competitions 🏆
+- Finalist, NYU Product Case Competition | November 2024 | 500 USD prize
+  - Presented at nationals representing NYU to compete with teams from Duke, UPenn,  Binghamton University
+  - Pitched to Product professionals in Microsoft, 28 Ventures, Meta, Microsoft Azure, and Pitchbook
+  - Hacked for a user-centric [cybersecurity solution](https://drive.google.com/file/d/1rUq2hNG_M3q8spSqcEn1BcfLM-bkpc7A/view?usp=sharing) (finals) & a dynamic [AI agent solution](https://drive.google.com/file/d/1-2WoQ4paLdyzgfqQLMfDxAq7kstHLgMw/view?usp=sharing) for data scientists to more efficiently clean, modify, and aggregate dynamic data sets (semi-finals) 
+- Best Use Of MongoDB Atlas Award, GirlHacks | September 2024 | 350 USD prize
+  - Awarded for best use of database among 200+ participants
+  - Developed a gamified platform designed to teach complex computer science concepts through storytelling, creating an inclusive learning experience for girls and/or the youth
+  - [Demo Video](https://drive.google.com/file/d/1GTI-orHC-6ktGU6Ao4TB587ImI84Xhr0/view)
 - 1st place, Global Case Challenge at Visa | August 2024 | 1750 USD prize
   - Competed among 172 interns, 27 teams in NA, LAC, CEMEA, and AP regions to develop a product that would expand financial inclusion at Visa with AI
 - 1st place, Whiteshield Case Competition | April 2024 | 500 USD prize

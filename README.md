@@ -57,6 +57,8 @@ I'm a senior majoring in Computer Science and minoring in Interactive Media and 
   - Pitched a tech-driven solution with computer vision and AR/VR/AI to solve the food waste produced in the UAE, specifically during Ramadan
   - [Pitch Deck](https://docs.google.com/presentation/d/1ZfTexEnj61XBPL9MDHbBtolPAZrufenuQWh3E7vuFMs/edit?usp=sharing)
 - Designpreneurs hackathon, NYU | November 2023
+  - A pair habit app that gamifies and helps consolidate healthy habits and goals
+  - [Pitch Deck](https://drive.google.com/file/d/1j4WU1NQY2evOIpJUhqG003Y7q0C6AeZD/view?usp=sharing)
   - [Product Prototype](https://www.figma.com/proto/qkICTwOEjRpVjolrwIsEjy/Habi?node-id=20-11038&starting-point-node-id=20%3A11038&mode=design&t=xDMb8SHmQJBjyzfm-1)
 - Finalist, L’Oréal Brandstorm Middle East 2023 | April 2023 | 800 USD prize
   - Ranked in the top 4 out of over 150 teams in the GCC region & presented twice to executives from L'Oreal and Meta

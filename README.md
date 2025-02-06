@@ -42,7 +42,7 @@ I'm a senior majoring in Computer Science and minoring in Interactive Media and 
 - Finalist, NYU Product Case Competition | November 2024 | 500 USD prize
   - Presented at nationals representing NYU to compete with teams from Duke, UPenn,  Binghamton University
   - Pitched to Product professionals in Microsoft, 28 Ventures, Meta, Microsoft Azure, and Pitchbook
-  - Hacked for a user-centric [cybersecurity solution](https://drive.google.com/file/d/1rUq2hNG_M3q8spSqcEn1BcfLM-bkpc7A/view?usp=sharing) (finals) & a dynamic [AI agent solution](https://drive.google.com/file/d/1-2WoQ4paLdyzgfqQLMfDxAq7kstHLgMw/view?usp=sharing) for data scientists to more efficiently clean, modify, and aggregate dynamic data sets (semi-finals) 
+  - Hacked for a user-centric [cybersecurity solution](https://drive.google.com/file/d/1rUq2hNG_M3q8spSqcEn1BcfLM-bkpc7A/view?usp=sharing) (finals) & a dynamic [AI agent solution](https://drive.google.com/file/d/1-2WoQ4paLdyzgfqQLMfDxAq7kstHLgMw/view?usp=sharing) for data analysts to more efficiently clean, modify, and aggregate dynamic data sets (semi-finals) 
 - Best Use Of MongoDB Atlas Award, GirlHacks | September 2024 | 350 USD prize
   - Awarded for best use of database among 200+ participants
   - Developed a gamified platform designed to teach complex computer science concepts through storytelling, creating an inclusive learning experience for girls and/or the youth

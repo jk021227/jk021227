@@ -39,6 +39,10 @@ I've recently graduated with honors as a Computer Science major with a minor in 
 **If you want to see more of my minor projects, please head to my [workportfolio](https://github.com/jk021227/workportfolio)**
 
 # 🏆 Hackathons & Competitions 🏆
+- Finalist, Slush'D AI Hackathon | February 2025
+  - Selected as 1 of 12 finalist teams out of 104 (344 students total) from 25 universities, pitched in front of industry mentors and executives from Nokia and ADCCI
+  - Built a modular cybersecurity dashboard for startups to manage server and network security without costly professional services
+  - [Cyberhydra Pitchdeck](https://www.linkedin.com/in/youngducando/overlay/1758646367863/single-media-viewer/?profileId=ACoAADeAtLABZ1TMqt75DUfhezSAPOWJE6BplKs)
 - Finalist, NYU Product Case Competition | November 2024 | 500 USD prize
   - Presented at nationals representing NYU to compete with teams from Duke, UPenn,  Binghamton University
   - Pitched to Product professionals in Microsoft, 28 Ventures, Meta, Microsoft Azure, and Pitchbook

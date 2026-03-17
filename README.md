@@ -10,6 +10,12 @@ I've recently graduated with honors as a Computer Science major with a minor in 
 
 # 🛠️ Major Projects 🛠️
 ## Software Engineering
+
+### [✉️ Dear, Someone](https://dear-someone-six.vercel.app/)
+* * __Aim__: a responsive web application that allows you to write time-locked letters to your loved ones and stay connected in a cute, modern-archaic fashion (I know pretty ironic). You can keep all your messages in your very own letter box. All the assets are custom made with love <3
+* __Skills Deployed__: prototyping, wireframing, UX/UI research, Typescript, full-stack development, web design
+* __Tools Used__: Figma, React, Next.js, MongoDB, and all the cool full stack libraries ;)
+
 ### [🧠 Ponyo - Neurodivergence Aid App](https://github.com/jk021227/workportfolio/tree/main/Ponyo%20-%20Neurodivergence%20Aid)
 * __Aim__: a mobile application that facilitates communication and provides wellness/safety tools for neurodivergent individuals.
 * __Skills Deployed__: prototyping, wireframing, UX/UI research, competitor analysis
@@ -77,7 +83,7 @@ I've recently graduated with honors as a Computer Science major with a minor in 
 * Department: Product
 * Accomplished:
   * Developing business use cases and technical product documents of Generative AI and ML-powered products
-  * Placed 1st in the Global Intern Case Challenge, pitching to the CEO of Visa — first ever product to be put into development for in competition history
+  * Placed 1st in the Global Intern Case Challenge, pitching to the CEO of Visa — first ever product to be put into development pipeline in competition history
 * Skills Deployed: Python, Product/Project Management, Pandas, Solution Architecture, Customer Roadmap Formulation, Figma
 
 ## Software Engineer, [dato.](https://www.linkedin.com/company/dato-pr/)
@@ -93,11 +99,11 @@ I've recently graduated with honors as a Computer Science major with a minor in 
 * Department: AI
 * Accomplished:
   * Cleaned up 10+ datasets and drafted a guide document for filing a provisional and non-provisional algorithm patent in the US 
-  * Collected data & trained ML model to enhance dynamic responsiveness of Customer Service Chatbot by 20%
+  * Collected data & trained ML model to enhance dynamic responsiveness of Customer Service Chatbot by 20% (precision)
 * Skills Deployed: Python, PostgreSQL, MySQL, Data Collection & Cleaning, NLP, Model Training & Tuning
 
 ### 🗳️ Contacts
-- 📧 E-mail: jhono@nyu.edu
+- 📧 E-mail: ykim021227@gmail.com
 - 🌐 [Linkedin](https://www.linkedin.com/in/youngducando/)
 
 I'm always open to new work/personal experiences, so please contact me whichever way you prefer :)

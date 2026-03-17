@@ -12,7 +12,7 @@ I've recently graduated with honors as a Computer Science major with a minor in 
 ## Software Engineering
 
 ### [✉️ Dear, Someone](https://dear-someone-six.vercel.app/)
-* * __Aim__: a responsive web application that allows you to write time-locked letters to your loved ones and stay connected in a cute, modern-archaic fashion (I know pretty ironic). You can keep all your messages in your very own letter box. All the assets are custom made with love <3
+* __Aim__: a responsive web application that allows you to write time-locked letters to your loved ones and stay connected in a cute, modern-archaic fashion (I know pretty ironic). You can keep all your messages in your very own letter box. All the assets are custom made with love <3
 * __Skills Deployed__: prototyping, wireframing, UX/UI research, Typescript, full-stack development, web design
 * __Tools Used__: Figma, React, Next.js, MongoDB, and all the cool full stack libraries ;)
 
